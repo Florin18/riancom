@@ -1,0 +1,10 @@
+{
+  "name": "riancom-92",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Website de prezentare Riancom '92",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs"
+  }
+}

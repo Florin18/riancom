@@ -1,0 +1,12 @@
+# Development-only files that must not be publicly served
+.git/
+.github/
+.codex/
+.cursor/
+.impeccable/
+poze/
+PRODUCT.md
+DESIGN.md
+README.md
+server.mjs
+
