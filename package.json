@@ -4,7 +4,6 @@
   "private": true,
   "description": "Website de prezentare Riancom '92",
   "scripts": {
-    "dev": "node server.mjs",
-    "start": "node server.mjs"
+    "dev": "node server.mjs"
   }
 }
