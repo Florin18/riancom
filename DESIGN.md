@@ -173,7 +173,7 @@ The trust band is a responsive ruled grid of verified facts. It uses no invented
 
 ### Product Ledger
 
-Each product entry combines one title, cautious descriptive copy, verified dimensions when available, and a direct quote action. Unknown technical variants are expressed as a request to confirm availability, never as a fabricated specification.
+The masonry formats form a three-image comparison strip on wide screens and a sequential stack on mobile, with every photograph paired directly with its verified dimension and type. Foundation and post blocks follow as two equal photographic entries. Each product group combines cautious descriptive copy with a direct quote action; unknown technical variants are expressed as a request to confirm availability, never as a fabricated specification.
 
 ## Do's and Don'ts
 
