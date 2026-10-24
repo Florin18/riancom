@@ -101,6 +101,8 @@ quoteForm?.addEventListener("submit", (event) => {
   if (!opened) window.location.href = whatsappUrl;
 });
 
+quoteForm?.removeAttribute("hidden");
+
 document.querySelectorAll("[data-year]").forEach((element) => {
   element.textContent = new Date().getFullYear();
 });
